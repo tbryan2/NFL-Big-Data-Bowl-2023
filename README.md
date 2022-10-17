@@ -2,7 +2,7 @@
 
 ## Instructions
 
-[Dataset](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/data)
+[Competition Overview](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview)
 
 ### Goal of the Competition
 
